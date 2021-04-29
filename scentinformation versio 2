@@ -1,0 +1,57 @@
+ bool isStatic = true;
+
+        public ToggleTestModes toggleTestModes;
+
+        if(toggleTestModes.participantNumber % 2 == 0)
+            isStatic = false;
+        
+        for (int i = 0; i< objects.Length - 1; i++)
+        {
+            if (objects[i].gameObject.name.Equals("Lemon")) {
+                ScentInformation lemon = new ScentInformation("lemon", "lemon", isStatic);
+            }
+            else if (objects[i].gameObject.name.Equals("Lemontree"))
+            {
+                ScentInformation lemon = new ScentInformation("lemontree", "lemon", !isStatic);
+            }
+            else if (objects[i].gameObject.name.Equals("IceCream"))
+            {
+                ScentInformation lemon = new ScentInformation("icecream", "vanilla", isStatic);
+            }
+            else if (objects[i].gameObject.name.Equals("Donut"))
+            {
+                ScentInformation lemon = new ScentInformation("donut", "vanilla", !isStatic);
+            }
+            else if (objects[i].gameObject.name.Equals("Apple"))
+            {
+                ScentInformation lemon = new ScentInformation("apple", "lemon", isStatic);
+            }
+            else if (objects[i].gameObject.name.Equals("Banana"))
+            {
+                ScentInformation lemon = new ScentInformation("banana", "lemon", !isStatic);
+            }
+            else if (objects[i].gameObject.name.Equals("Grass"))
+            {
+                ScentInformation lemon = new ScentInformation("grass", "vanilla", isStatic);
+            }
+            else if (objects[i].gameObject.name.Equals("Mushroom"))
+            {
+                ScentInformation lemon = new ScentInformation("mushroom", "vanilla", !isStatic);
+            }           
+            else if (objects[i].gameObject.name.Equals("Rose"))
+            {
+                ScentInformation lemon = new ScentInformation("rose", "none");
+            }
+            else if (objects[i].gameObject.name.Equals("Jasmine Vase"))
+            {
+                ScentInformation lemon = new ScentInformation("jasminevase", "none");
+            }
+            else if (objects[i].gameObject.name.Equals("Teacup"))
+            {
+                ScentInformation lemon = new ScentInformation("teacup", "none");
+            }
+            else if (objects[i].gameObject.name.Equals("Milk"))
+            {
+                ScentInformation lemon = new ScentInformation("milk", "none");
+            }
+        }

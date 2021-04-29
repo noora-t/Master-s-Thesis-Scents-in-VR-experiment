@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.thesis_scent_experiment.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\ESC\\Desktop\\Thesis scent experiment2\\Thesis scent experiment2\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Thesis_scent_experiment [Testing]"
+        }
+      }
+    }
+  ]
+}

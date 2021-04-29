@@ -1,0 +1,267 @@
+0.000	Logfile created
+0.000	Participant number: 5
+0.000	Phase 1 Memory Test started
+0.000	Trying to open COM port
+0.000	COM port status: True
+0.000	Object order randomized.
+0.000	Objects placed in boxes.
+1135.965	Objects placed in boxes.
+1141.497	Name: Lemontree, scent: lemon, distance: far, is static: True
+1142.459	Name: Lemontree, scent: lemon, distance: middle, is static: True
+1143.284	Name: Lemontree, scent: lemon, distance: close, is static: True
+1144.909	Name: Lemontree, scent: lemon, distance: middle, is static: True
+1145.947	Name: Lemontree, scent: lemon, distance: close, is static: True
+1146.159	Name: Lemontree, scent: lemon, distance: middle, is static: True
+1146.756	Name: Lemontree, scent: lemon, distance: close, is static: True
+1147.722	Name: Lemontree, scent: lemon, distance: middle, is static: True
+1148.081	Name: Lemontree, scent: lemon, distance: close, is static: True
+1149.071	Name: Lemontree, scent: lemon, distance: middle, is static: True
+1150.035	Name: Lemontree, scent: lemon, distance: far, is static: True
+1151.159	Object not in hand
+1160.498	Objects placed in boxes.
+1168.035	Name: Teacup, scent: lemon, distance: far, is static: True
+1168.960	Name: Teacup, scent: lemon, distance: middle, is static: True
+1170.147	Name: Teacup, scent: lemon, distance: close, is static: True
+1174.734	Name: Teacup, scent: lemon, distance: middle, is static: True
+1176.422	Name: Teacup, scent: lemon, distance: far, is static: True
+1177.123	Object not in hand
+1185.311	Objects placed in boxes.
+1189.435	Name: Rose, scent: odorless, distance: far, is static: True
+1190.885	Name: Rose, scent: odorless, distance: middle, is static: True
+1199.623	Name: Rose, scent: odorless, distance: far, is static: True
+1200.170	Object not in hand
+1206.186	Objects placed in boxes.
+1210.009	Name: Milk, scent: vanilla, distance: far, is static: True
+1211.223	Name: Milk, scent: vanilla, distance: middle, is static: True
+1219.060	Name: Milk, scent: vanilla, distance: far, is static: True
+1220.085	Object not in hand
+1230.023	Name: Grass, scent: odorless, distance: far, is static: True
+1230.683	Name: Grass, scent: odorless, distance: middle, is static: True
+1231.384	Name: Grass, scent: odorless, distance: close, is static: True
+1233.224	Name: Grass, scent: odorless, distance: middle, is static: True
+1233.249	Name: Grass, scent: odorless, distance: close, is static: True
+1233.408	Name: Grass, scent: odorless, distance: middle, is static: True
+1234.273	Name: Grass, scent: odorless, distance: close, is static: True
+1234.758	Name: Grass, scent: odorless, distance: middle, is static: True
+1236.161	Name: Grass, scent: odorless, distance: far, is static: True
+1237.049	Object not in hand
+1247.312	Name: Apple, scent: odorless, distance: far, is static: True
+1247.845	Name: Apple, scent: odorless, distance: middle, is static: True
+1248.333	Name: Apple, scent: odorless, distance: close, is static: True
+1250.299	Name: Apple, scent: odorless, distance: middle, is static: True
+1252.261	Name: Apple, scent: odorless, distance: far, is static: True
+1252.870	Object not in hand
+1259.988	Objects placed in boxes.
+1263.500	Name: Mushroom, scent: odorless, distance: far, is static: True
+1264.099	Name: Mushroom, scent: odorless, distance: middle, is static: True
+1264.775	Name: Mushroom, scent: odorless, distance: close, is static: True
+1266.000	Name: Mushroom, scent: odorless, distance: middle, is static: True
+1266.346	Name: Mushroom, scent: odorless, distance: close, is static: True
+1267.424	Name: Mushroom, scent: odorless, distance: middle, is static: True
+1268.813	Name: Mushroom, scent: odorless, distance: close, is static: True
+1269.750	Name: Mushroom, scent: odorless, distance: middle, is static: True
+1270.321	Name: Mushroom, scent: odorless, distance: far, is static: True
+1270.959	Object not in hand
+1277.078	Objects placed in boxes.
+1282.050	Name: Banana, scent: vanilla, distance: far, is static: True
+1282.775	Name: Banana, scent: vanilla, distance: middle, is static: True
+1283.334	Name: Banana, scent: vanilla, distance: close, is static: True
+1285.637	Name: Banana, scent: vanilla, distance: middle, is static: True
+1286.310	Name: Banana, scent: vanilla, distance: close, is static: True
+1287.638	Name: Banana, scent: vanilla, distance: middle, is static: True
+1287.935	Name: Banana, scent: vanilla, distance: close, is static: True
+1288.825	Name: Banana, scent: vanilla, distance: middle, is static: True
+1289.184	Name: Banana, scent: vanilla, distance: close, is static: True
+1289.396	Name: Banana, scent: vanilla, distance: middle, is static: True
+1289.571	Name: Banana, scent: vanilla, distance: close, is static: True
+1289.596	Name: Banana, scent: vanilla, distance: middle, is static: True
+1291.025	Name: Banana, scent: vanilla, distance: far, is static: True
+1291.584	Object not in hand
+1297.127	Objects placed in boxes.
+1300.599	Name: Icecream, scent: vanilla, distance: far, is static: True
+1301.134	Name: Icecream, scent: vanilla, distance: middle, is static: True
+1301.635	Name: Icecream, scent: vanilla, distance: close, is static: True
+1302.901	Name: Icecream, scent: vanilla, distance: middle, is static: True
+1303.097	Name: Icecream, scent: vanilla, distance: close, is static: True
+1304.088	Name: Icecream, scent: vanilla, distance: middle, is static: True
+1304.435	Name: Icecream, scent: vanilla, distance: close, is static: True
+1305.212	Name: Icecream, scent: vanilla, distance: middle, is static: True
+1306.963	Name: Icecream, scent: vanilla, distance: far, is static: True
+1308.088	Name: Icecream, scent: vanilla, distance: middle, is static: True
+1309.751	Name: Icecream, scent: vanilla, distance: far, is static: True
+1310.449	Object not in hand
+1318.052	Objects placed in boxes.
+1321.762	Name: Jasminevase, scent: lemon, distance: far, is static: True
+1322.488	Name: Jasminevase, scent: lemon, distance: middle, is static: True
+1329.026	Name: Jasminevase, scent: lemon, distance: far, is static: True
+1330.326	Object not in hand
+1335.553	Objects placed in boxes.
+1339.014	Name: Lemon, scent: lemon, distance: far, is static: True
+1339.487	Name: Lemon, scent: lemon, distance: middle, is static: True
+1339.963	Name: Lemon, scent: lemon, distance: close, is static: True
+1342.339	Name: Lemon, scent: lemon, distance: middle, is static: True
+1346.639	Name: Lemon, scent: lemon, distance: far, is static: True
+1347.315	Object not in hand
+1355.151	Name: Cake, scent: vanilla, distance: far, is static: True
+1355.601	Name: Cake, scent: vanilla, distance: middle, is static: True
+1355.950	Name: Cake, scent: vanilla, distance: close, is static: True
+1357.315	Name: Cake, scent: vanilla, distance: middle, is static: True
+1357.800	Name: Cake, scent: vanilla, distance: close, is static: True
+1358.964	Name: Cake, scent: vanilla, distance: middle, is static: True
+1359.088	Name: Cake, scent: vanilla, distance: close, is static: True
+1359.814	Name: Cake, scent: vanilla, distance: middle, is static: True
+1361.364	Name: Cake, scent: vanilla, distance: far, is static: True
+1362.002	Object not in hand
+1632.134	Phase 2 Emotion Rating started
+1632.134	Objects placed in boxes.
+1654.882	Objects placed in boxes.
+1659.169	Name: Lemontree, scent: lemon, distance: far, is static: True
+1659.981	Name: Lemontree, scent: lemon, distance: middle, is static: True
+1660.869	Name: Lemontree, scent: lemon, distance: close, is static: True
+1661.982	Name: Lemontree, scent: lemon, distance: middle, is static: True
+1662.528	Name: Lemontree, scent: lemon, distance: close, is static: True
+1662.553	Name: Lemontree, scent: lemon, distance: middle, is static: True
+1662.866	Name: Lemontree, scent: lemon, distance: close, is static: True
+1663.554	Name: Lemontree, scent: lemon, distance: middle, is static: True
+1664.078	Name: Lemontree, scent: lemon, distance: close, is static: True
+1664.993	Name: Lemontree, scent: lemon, distance: middle, is static: True
+1665.994	Name: Lemontree, scent: lemon, distance: far, is static: True
+1666.731	Name: Lemontree, scent: lemon, distance: middle, is static: True
+1668.119	Name: Lemontree, scent: lemon, distance: far, is static: True
+1669.569	Object not in hand
+1687.735	Participant response: 3
+1699.722	Participant response: 3
+1704.883	Objects placed in boxes.
+1709.969	Name: Teacup, scent: lemon, distance: far, is static: True
+1710.694	Name: Teacup, scent: lemon, distance: middle, is static: True
+1715.770	Name: Teacup, scent: lemon, distance: close, is static: True
+1715.845	Name: Teacup, scent: lemon, distance: middle, is static: True
+1715.884	Name: Teacup, scent: lemon, distance: close, is static: True
+1716.871	Name: Teacup, scent: lemon, distance: middle, is static: True
+1717.632	Name: Teacup, scent: lemon, distance: close, is static: True
+1718.683	Name: Teacup, scent: lemon, distance: middle, is static: True
+1719.845	Name: Teacup, scent: lemon, distance: close, is static: True
+1720.658	Name: Teacup, scent: lemon, distance: middle, is static: True
+1721.117	Name: Teacup, scent: lemon, distance: far, is static: True
+1722.145	Name: Teacup, scent: lemon, distance: middle, is static: True
+1722.392	Name: Teacup, scent: lemon, distance: close, is static: True
+1723.745	Name: Teacup, scent: lemon, distance: middle, is static: True
+1723.979	Name: Teacup, scent: lemon, distance: far, is static: True
+1724.592	Object not in hand
+1740.336	Participant response: -1
+1747.785	Participant response: 0
+1751.422	Objects placed in boxes.
+1755.209	Name: Rose, scent: odorless, distance: far, is static: True
+1756.220	Name: Rose, scent: odorless, distance: middle, is static: True
+1757.858	Name: Rose, scent: odorless, distance: far, is static: True
+1757.883	Name: Rose, scent: odorless, distance: middle, is static: True
+1757.993	Name: Rose, scent: odorless, distance: far, is static: True
+1759.183	Name: Rose, scent: odorless, distance: middle, is static: True
+1759.233	Name: Rose, scent: odorless, distance: far, is static: True
+1759.555	Name: Rose, scent: odorless, distance: middle, is static: True
+1760.533	Name: Rose, scent: odorless, distance: far, is static: True
+1760.646	Name: Rose, scent: odorless, distance: middle, is static: True
+1760.755	Name: Rose, scent: odorless, distance: far, is static: True
+1762.934	Object not in hand
+1774.499	Participant response: 2
+1781.936	Participant response: 0
+1783.997	Objects placed in boxes.
+1786.909	Name: Milk, scent: vanilla, distance: far, is static: True
+1787.785	Name: Milk, scent: vanilla, distance: middle, is static: True
+1797.221	Name: Milk, scent: vanilla, distance: far, is static: True
+1797.881	Name: Milk, scent: vanilla, distance: middle, is static: True
+1799.296	Name: Milk, scent: vanilla, distance: far, is static: True
+1800.596	Object not in hand
+1812.661	Participant response: 1
+1821.961	Participant response: 0
+1824.036	Objects placed in boxes.
+1827.122	Name: Grass, scent: odorless, distance: far, is static: True
+1827.518	Name: Grass, scent: odorless, distance: middle, is static: True
+1828.069	Name: Grass, scent: odorless, distance: close, is static: True
+1829.422	Name: Grass, scent: odorless, distance: middle, is static: True
+1829.756	Name: Grass, scent: odorless, distance: close, is static: True
+1830.306	Name: Grass, scent: odorless, distance: middle, is static: True
+1833.096	Name: Grass, scent: odorless, distance: close, is static: True
+1833.568	Name: Grass, scent: odorless, distance: middle, is static: True
+1834.119	Name: Grass, scent: odorless, distance: far, is static: True
+1834.681	Object not in hand
+1848.199	Participant response: 0
+1854.775	Participant response: 0
+1857.399	Objects placed in boxes.
+1860.473	Name: Apple, scent: odorless, distance: far, is static: True
+1860.944	Name: Apple, scent: odorless, distance: middle, is static: True
+1862.410	Name: Apple, scent: odorless, distance: close, is static: True
+1862.907	Name: Apple, scent: odorless, distance: middle, is static: True
+1863.332	Name: Apple, scent: odorless, distance: close, is static: True
+1864.274	Name: Apple, scent: odorless, distance: middle, is static: True
+1864.999	Name: Apple, scent: odorless, distance: close, is static: True
+1865.861	Name: Apple, scent: odorless, distance: middle, is static: True
+1867.948	Object not in hand
+1872.462	Objects placed in boxes.
+1883.800	Participant response: 2
+1894.463	Participant response: 1
+1897.812	Objects placed in boxes.
+1901.586	Name: Mushroom, scent: odorless, distance: far, is static: True
+1902.109	Name: Mushroom, scent: odorless, distance: middle, is static: True
+1905.199	Name: Mushroom, scent: odorless, distance: close, is static: True
+1905.758	Name: Mushroom, scent: odorless, distance: middle, is static: True
+1906.861	Name: Mushroom, scent: odorless, distance: far, is static: True
+1907.484	Object not in hand
+1919.301	Participant response: 2
+1925.913	Participant response: 0
+1929.825	Objects placed in boxes.
+1933.862	Name: Banana, scent: vanilla, distance: far, is static: True
+1934.333	Name: Banana, scent: vanilla, distance: middle, is static: True
+1934.845	Name: Banana, scent: vanilla, distance: close, is static: True
+1935.912	Name: Banana, scent: vanilla, distance: middle, is static: True
+1936.712	Name: Banana, scent: vanilla, distance: close, is static: True
+1937.574	Name: Banana, scent: vanilla, distance: middle, is static: True
+1938.874	Name: Banana, scent: vanilla, distance: close, is static: True
+1939.484	Name: Banana, scent: vanilla, distance: middle, is static: True
+1941.974	Name: Banana, scent: vanilla, distance: far, is static: True
+1942.712	Object not in hand
+1955.040	Participant response: -1
+1965.765	Participant response: 0
+1968.750	Objects placed in boxes.
+1972.400	Name: Icecream, scent: vanilla, distance: far, is static: True
+1972.959	Name: Icecream, scent: vanilla, distance: middle, is static: True
+1973.610	Name: Icecream, scent: vanilla, distance: close, is static: True
+1974.512	Name: Icecream, scent: vanilla, distance: middle, is static: True
+1974.809	Name: Icecream, scent: vanilla, distance: close, is static: True
+1975.258	Name: Icecream, scent: vanilla, distance: middle, is static: True
+1975.733	Name: Icecream, scent: vanilla, distance: close, is static: True
+1976.371	Name: Icecream, scent: vanilla, distance: middle, is static: True
+1977.225	Name: Icecream, scent: vanilla, distance: far, is static: True
+1977.989	Object not in hand
+1987.353	Participant response: 4
+2010.065	Participant response: -3
+2011.238	Name: Jasminevase, scent: lemon, distance: far, is static: True
+2011.834	Name: Jasminevase, scent: lemon, distance: middle, is static: True
+2018.351	Name: Jasminevase, scent: lemon, distance: far, is static: True
+2019.326	Object not in hand
+2030.865	Participant response: 3
+2039.278	Participant response: 2
+2040.953	Objects placed in boxes.
+2043.502	Name: Lemon, scent: lemon, distance: far, is static: True
+2044.001	Name: Lemon, scent: lemon, distance: middle, is static: True
+2044.488	Name: Lemon, scent: lemon, distance: close, is static: True
+2045.927	Name: Lemon, scent: lemon, distance: middle, is static: True
+2046.288	Name: Lemon, scent: lemon, distance: close, is static: True
+2047.652	Name: Lemon, scent: lemon, distance: middle, is static: True
+2048.414	Name: Lemon, scent: lemon, distance: far, is static: True
+2048.913	Object not in hand
+2060.117	Participant response: -1
+2068.292	Participant response: 4
+2071.266	Objects placed in boxes.
+2074.653	Name: Cake, scent: vanilla, distance: far, is static: True
+2075.089	Name: Cake, scent: vanilla, distance: middle, is static: True
+2075.514	Name: Cake, scent: vanilla, distance: close, is static: True
+2076.415	Name: Cake, scent: vanilla, distance: middle, is static: True
+2076.764	Name: Cake, scent: vanilla, distance: close, is static: True
+2077.440	Name: Cake, scent: vanilla, distance: middle, is static: True
+2077.689	Name: Cake, scent: vanilla, distance: close, is static: True
+2077.976	Name: Cake, scent: vanilla, distance: middle, is static: True
+2078.263	Name: Cake, scent: vanilla, distance: far, is static: True
+2079.190	Object not in hand
+2090.705	Participant response: 3
+2099.968	Participant response: 0
